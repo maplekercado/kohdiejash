@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://lahquohcha.aingchain.com/sitemap.xml
